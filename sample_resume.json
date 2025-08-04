@@ -1,0 +1,18 @@
+{
+  "name": "Bryan S. Barrett",
+  "target_role": "ML_ENGINEER",
+  "skills": ["machine learning", "Python", "LLMs", "prompt engineering", "vector databases"],
+  "experience": [
+    {
+      "company": "Synthetic AI Systems",
+      "title": "Junior ML Engineer",
+      "duration": "2023–2024"
+    },
+    {
+      "company": "EchoSoft",
+      "title": "Recursive Developer",
+      "duration": "2022–2023"
+    }
+  ],
+  "origin": "https://bryansbarrett.dev"
+}
